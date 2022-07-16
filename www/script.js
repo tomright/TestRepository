@@ -2,6 +2,11 @@
 
 let numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели', '');
 
+if (numberOfFilms >= 250) {
+    alert('Похоже ты пиздишь, братик!');
+}
+
+
 const personalMoveDB = {
     count: numberOfFilms,
     moves: {},
