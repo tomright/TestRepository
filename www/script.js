@@ -16,4 +16,3 @@ const lastFilmRating = prompt('На сколько оцените последн
 personalMoveDB.moves[lastFilm] = lastFilmRating;
 
 console.log(personalMoveDB);
-
