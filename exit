@@ -1,0 +1,11 @@
+[33mcommit 21eb2beed855e768ec65f19e5310924fcde97dbb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Azat Rakipov <9uvc@mail.ru>
+Date:   Sat Jul 16 18:23:18 2022 +0500
+
+    Second. Подправил пустые строчки
+
+[33mcommit 53a47ff16ee830030f0e8c1724073f404ae27afa[m
+Author: Azat Rakipov <9uvc@mail.ru>
+Date:   Sat Jul 16 18:20:46 2022 +0500
+
+    First commit. Создал первую консольную программу на JS
